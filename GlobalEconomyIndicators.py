@@ -12,7 +12,7 @@ from sklearn.preprocessing import LabelEncoder
 
 plt.ioff()
 
-filepath = 'C:/Local Drive D/Heyt/Chicago College Docs/Sem 1/Subject CS584 - Machine Learning/Final Project/Global Economy Indicators/Global Economy Indicators.csv'
+filepath = 'C:/Local Drive D/Heyt/Chicago College Docs/Sem 1/Subject CS584 - Machine Learning/Final Project/GlobalEconomyIndicators/Global Economy Indicators.csv'
 df = pd.read_csv(filepath)
 pd.set_option('display.max_columns', None)  # Display all columns
 print(df.head(10))
