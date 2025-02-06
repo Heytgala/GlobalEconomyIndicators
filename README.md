@@ -1,4 +1,4 @@
-# GlobalEconomyIndicators
+# Global Economy Indicators
 
 >> Make sure you install the zip properly
 
